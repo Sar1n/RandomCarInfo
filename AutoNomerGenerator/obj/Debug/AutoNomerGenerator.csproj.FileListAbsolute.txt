@@ -1,0 +1,7 @@
+C:\data\Projects\AutoNomerGenerator\AutoNomerGenerator\bin\Debug\AutoNomerGenerator.exe.config
+C:\data\Projects\AutoNomerGenerator\AutoNomerGenerator\bin\Debug\AutoNomerGenerator.exe
+C:\data\Projects\AutoNomerGenerator\AutoNomerGenerator\bin\Debug\AutoNomerGenerator.pdb
+C:\data\Projects\AutoNomerGenerator\AutoNomerGenerator\obj\Debug\AutoNomerGenerator.csprojAssemblyReference.cache
+C:\data\Projects\AutoNomerGenerator\AutoNomerGenerator\obj\Debug\AutoNomerGenerator.csproj.CoreCompileInputs.cache
+C:\data\Projects\AutoNomerGenerator\AutoNomerGenerator\obj\Debug\AutoNomerGenerator.exe
+C:\data\Projects\AutoNomerGenerator\AutoNomerGenerator\obj\Debug\AutoNomerGenerator.pdb
